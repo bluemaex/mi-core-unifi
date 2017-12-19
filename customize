@@ -16,7 +16,7 @@ useradd -d /opt/local/UniFi -s /usr/bin/false unifi
 
 echo "* Download and install UniFi Controller Software"
 wget http://dl.ubnt.com/unifi/${UNIFI_VERSION}/UniFi.unix.zip -O /tmp/UniFi.unix.zip
-LOCAL_HASH=($(md5sum /tmp/UniFi.unix.zip))
+LOCAL_HASH=($(digest -a md5 /tmp/UniFi.unix.zip))
 
 if [[ "${UNIFI_HASH}" != "${LOCAL_HASH}" ]]; then
 	echo "ERROR: You maybe downloaded the wrong file for UniFi.unix.zip"
