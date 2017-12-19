@@ -5,7 +5,7 @@
 	"organization": "SkyLime",
 	"brand":        "Instance",
 	"homepage":     "https://github.com/drscream/mi-core-unifi",
-	"base":         "beab4bdb-c977-4301-8084-c89924646dce",
+	"base":         "849316cb-4639-4cc1-befd-9db5f71487f6",
 	"customer_metadata": {
 		"root_authorized_keys": {"type": "text", "description": "SSH public authorized key(s) for the root user"},
 		"root_ssh_rsa":         {"type": "text", "description": "private SSH rsa key for root user"},
