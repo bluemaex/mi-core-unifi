@@ -1,6 +1,6 @@
 {
 	"name":         "core-unifi",
-	"version":      "5.0.7",
+	"version":      "5.6.26",
 	"description":  "core.io UniFi - Simple and Scalable Wi-Fi Device Management for Ubiquiti",
 	"organization": "SkyLime",
 	"brand":        "Instance",

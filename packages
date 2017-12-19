@@ -1,5 +1,5 @@
 # List packages to add to your image one per line.
 unzip
-sun-jre6-6.0.26
-mongodb-3.0.11
+openjdk8-1.8.144
+http://pkgsrc.smartos.skylime.net/packages/SmartOS/2017Q2/x86_64/All/mongodb-3.0.11.tgz
 nginx
