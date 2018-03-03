@@ -2,6 +2,14 @@
 
 # Changelog
 
+## core-unifi-5.6.26
+
+### New
+
+* Get SSL Certificate via Lets Encrypt [Max Stockner]
+* Import Lets Encrypt certificate into Ubiquity Controller [Max Stockner]
+* Added NGINX Proxy [Max Stockner]
+
 ## core-unifi-5.0.7
 
 ### New
