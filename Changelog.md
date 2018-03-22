@@ -7,6 +7,7 @@
 ### New
 
 * Update to Unifi Controller 5.7.20 [Max Stockner]
+* Update base image to core-base 17.4.2 [Max Stockner]
 
 ## core-unifi-5.6.26
 

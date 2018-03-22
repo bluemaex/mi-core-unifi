@@ -1,11 +1,11 @@
 {
 	"name":         "core-unifi",
-	"version":      "5.6.26",
+	"version":      "5.7.20",
 	"description":  "core.io UniFi - Simple and Scalable Wi-Fi Device Management for Ubiquiti",
 	"organization": "SkyLime",
 	"brand":        "Instance",
 	"homepage":     "https://github.com/drscream/mi-core-unifi",
-	"base":         "849316cb-4639-4cc1-befd-9db5f71487f6",
+	"base":         "bb1eb610-6381-4f84-8251-b45af9efdea1",
 	"customer_metadata": {
 		"root_authorized_keys": {"type": "text", "description": "SSH public authorized key(s) for the root user"},
 		"root_ssh_rsa":         {"type": "text", "description": "private SSH rsa key for root user"},
