@@ -5,8 +5,8 @@
 PATH=/opt/local/gnu/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/usr/sbin
 
 # UniFi Controller Version
-UNIFI_VERSION="5.6.26"
-UNIFI_HASH="e3c5c05e7dcaf1af05ac462021851348"
+UNIFI_VERSION="5.7.20"
+UNIFI_HASH="0df23b49c660ecda68acbb21f0a6cbd1"
 
 # Exit if any commands fail
 set -o errexit

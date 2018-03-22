@@ -2,6 +2,12 @@
 
 # Changelog
 
+## core-unifi-5.7.20
+
+### New
+
+* Update to Unifi Controller 5.7.20 [Max Stockner]
+
 ## core-unifi-5.6.26
 
 ### New

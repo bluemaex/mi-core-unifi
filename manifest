@@ -1,7 +1,7 @@
 name="core-unifi"
 organization="SkyLime"
 brand="Instance"
-version="5.6.26"
+version="5.7.20"
 description="core.io UniFi - Simple and Scalable Wi-Fi Device Management for Ubiquiti"
 homepage="https://github.com/drscream/mi-core-unifi"
 users="root"
